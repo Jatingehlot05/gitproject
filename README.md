@@ -1,7 +1,7 @@
 # myFirstRepository
 understanding Github interface and other features.
 
-notes:
+notes:  
 -checked for git version using `git --version`  
 -introduced myself to git using ```git --global user.name="XYZ"``` etc...  
 -told git to watch a locally stored folder using ```git init```\
